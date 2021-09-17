@@ -1,9 +1,19 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on several projects including [ADE-Scheduler](ade-scheduler.info.ucl.ac.be), an open-source webapp for students at the UCLouvain.
+- ⚡ I'm pursuing a Ph.D thesis on high-performance computing (HPC) in computational fluid dynamics (CFD).
+- 📫 You can reach me on Telegram (@SnaKyEyeS) or by mail (gillesponcelet@skynet.be) !
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snakyeyes"></img>
+</p>
+
 <!--
 **SnaKyEyeS/SnaKyEyeS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
